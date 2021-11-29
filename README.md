@@ -1,1 +1,1 @@
-# autonomous_driving_application_car_de
+# autonomous_driving_application_car_detection
